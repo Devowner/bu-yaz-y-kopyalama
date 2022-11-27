@@ -1,6 +1,6 @@
 local Library = loadstring(game:HttpGet("https://raw.githubusercontent.com/xHeptc/Kavo-UI-Library/main/source.lua"))()
 
-local Window = Library.CreateLib("DEVOWNER", "Midnight")
+local Window = Library.CreateLib("DEVOWNER#5866", "Midnight")
 
 local dragging = true
 
